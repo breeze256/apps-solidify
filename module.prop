@@ -1,0 +1,6 @@
+id=modifier
+name=Modifier - Modify /system systemless
+author=breeze256
+version=1.0.1
+versionCode=6
+description=A template Magisk module to modify /system.
